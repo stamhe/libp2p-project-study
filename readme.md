@@ -16,4 +16,11 @@ go get github.com/libp2p/go-libp2p-pubsub
 https://studygolang.com/articles/25126
 https://github.com/corgi-kx/blockchain_golang
 
+replay
+https://zfunnily.github.io/2021/10/gop2pthree/
+https://github.com/zfunnily/hole-punching-go-libp2p
+
+hole punching - 好像不能工作？
+https://zfunnily.github.io/2021/11/gop2pfour/
+https://github.com/zfunnily/hole-punching-go-libp2p
 ```
