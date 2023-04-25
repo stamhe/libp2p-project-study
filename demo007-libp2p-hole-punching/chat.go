@@ -335,8 +335,6 @@ func makeRandomNode(relay string) *Node {
 https://zfunnily.github.io/2021/10/gop2pthree/
 https://zfunnily.github.io/2021/11/gop2pfour/
 https://github.com/zfunnily/hole-punching-go-libp2p
-
-好像不能脱离中继服务器
 */
 func main() {
 	relay := flag.String("relay", "", "relay addrs")
